@@ -1,5 +1,5 @@
 streamlit
-SpeechRecognition
+speechrecognition
 gtts
-googletrans==4.0.0-rc1
-pyaudio
+googletrans==4.0.0rc1
+deep-translator
